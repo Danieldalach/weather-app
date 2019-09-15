@@ -1,0 +1,78 @@
+h1,
+h2,
+h3 {
+  margin: 0;
+  padding-bottom: 20px;
+}
+h6 {
+  color: green;
+  font-size: 20px;
+}
+
+h5 {
+  color: blue;
+}
+
+.app {
+  padding: 20px 0;
+}
+
+.city-card {
+  background: lightyellow;
+  padding: 10px;
+  border-radius: 5px;
+  margin-left: 10px;
+  opacity: 0.8;
+  margin: 10px;
+  width: 600px;
+}
+
+.search-card {
+  background: lightsteelblue;
+  padding: 10px;
+  border-radius: 5px;
+  margin-left: 10px;
+  border: black;
+  width: 260px;
+  height: 300px;
+  margin: 10px;
+  opacity: 0.75;
+}
+
+p {
+  color: blueviolet;
+}
+
+.logo {
+  font-size: 50px;
+}
+
+.switch button {
+  margin-left: 10px;
+}
+
+.remove {
+  margin-left: 90%;
+}
+
+.days {
+  background-color: aqua;
+  height: 93px;
+  width: 94px;
+  margin: 4px;
+}
+
+.box {
+  margin: 10px;
+  color: black;
+  background-color: lightblue;
+  width: 110px;
+  height: 100px;
+  display: inline-flex;
+  font-size: 15px;
+}
+
+.text {
+  color: green;
+  font-size: 20px;
+}
